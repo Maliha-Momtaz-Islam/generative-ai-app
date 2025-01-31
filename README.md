@@ -36,6 +36,8 @@ Run the download script:
 
 ```bash python train.py```
 
+it should generate the model from dataset and store it in models folder 
+
 6. **Run the app**:
 
 ```bash python app.py```
