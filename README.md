@@ -13,13 +13,11 @@ This project fine-tunes a generative AI model (DeepSeek LLM) to create a text ge
 ## Setup
 
 1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/generative-ai-app.git```
+   ```bash git clone https://github.com/yourusername/generative-ai-app.git```
 
 2. **Install dependencies**:
 
-```bash
-pip install -r requirements.txt```
+```bash pip install -r requirements.txt```
 
 3. **Download the dataset**:
 
