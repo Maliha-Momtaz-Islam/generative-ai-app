@@ -1,5 +1,4 @@
-# generative-ai-app
-This project fine-tunes a generative AI model (DeepSeek LLM) to create a text generation app.
+
 # Generative AI App with Breast Cancer Wisconsin Dataset
 
 This project fine-tunes a generative AI model (DeepSeek LLM) to create a text generation app using the Breast Cancer Wisconsin Dataset. The app generates descriptive summaries of breast cancer data based on user input.
@@ -27,23 +26,19 @@ Place the kaggle.json file in ~/.kaggle/ (on Linux/Mac) or C:\Users\<YourUsernam
 
 Run the download script:
 
-```bash
-python download_data.py```
+```bash python download_data.py```
 
 4. **Preprocess the data**:
 
-```bash
-python preprocess.py```
+```bash python preprocess.py```
 
 5. **Train the model**:
 
-```bash
-python train.py```
+```bash python train.py```
 
 6. **Run the app**:
 
-```bash
-python app.py```
+```bash python app.py```
 
 **Project Structure**
 
