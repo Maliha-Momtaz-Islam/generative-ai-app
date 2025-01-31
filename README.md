@@ -58,7 +58,7 @@ generative-ai-app/
 ├── requirements.txt        # List of Python dependencies
 ├── README.md               # Project documentation
 └── outputs/                # Sample outputs (optional)
-    └── example_summary.txt
+    └── example_summary.txt 
 
 **Sample Outputs**
 Here’s an example of output:
